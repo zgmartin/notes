@@ -1,0 +1,7 @@
+jupyter
+pandas
+seaborn
+beautifulsoup4
+requests
+lxml
+
